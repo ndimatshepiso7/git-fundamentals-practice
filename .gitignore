@@ -1,0 +1,78 @@
+#Operating Systems 
+
+#Windows
+Thumbs.db
+Desktop.ini 
+
+#macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+#Linux
+*~
+
+#IDEs
+
+#VS Code
+.vscode/
+
+#JetBrains IDEs
+.idea/
+*.iml
+
+#Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+#Programming Languages
+
+#Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+#Python
+__pycache__/
+*.py[cod]   
+*.pyo
+*.pyd
+env/
+venv/
+
+#.NET
+bin/
+obj/    
+*.dll
+*.exe
+*.pdb
+*.cache
+
+
+#Custom rules
+
+#*.log
+logs/
+*.log
+
+#temp/directories
+temp/
+tmp/
+*.tmp
+
+#secret files
+secrets.env
+credentials.json
+.env
+.env.local
+.env.*.local
+
+#Comments can be added using the '#' symbol at the beginning of the line.
+#This .gitignore file is used to specify files and directories that should be ignored by Git version control.
+#You can customize this file based on your project's requirements.
+#End of .gitignore file
+
+
