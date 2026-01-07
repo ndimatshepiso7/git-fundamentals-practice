@@ -25,7 +25,7 @@ def divide(a, b):
     return a / b
 
 if __name__ == "__main__":
-print("Calculator v1.1.0")
+print("Calculator v1.2.0")
 =======
 """Divide a by b"""
 if b == 0:
